@@ -8,9 +8,18 @@
     "btns"
     "experience"
     "info";
+}
 
-
-    .btn-primary {
+    .buttons{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      gap: 24px;
+      grid-area: btns;
+    
+    }
+      .btn-primary {
 
       background: linear-gradient( 90deg, #777cf4 2.62%, #F47777 93.38%);
       border-radius: 24px;
@@ -30,8 +39,13 @@
       gap: 8px;
 
       justify-content: center;
+    
+      
     }
-}
+
+
+   
+
 
 @media (min-width: 768px) {
   .container {

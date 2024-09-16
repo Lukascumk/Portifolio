@@ -1,10 +1,10 @@
-export function GitIcon() {
+export function GithubIcon() {
   return (
     <svg
       version="1.1"
       viewBox="0 0 2048 2048"
-      width="1280"
-      height="1280"
+      width="18"
+      height="20"
       xmlns="http://www.w3.org/2000/svg"
     >
       <path
@@ -22,5 +22,5 @@ export function GitIcon() {
       <path transform="translate(1,1396)" d="m0 0" />
       <path transform="translate(0,1386)" d="m0 0" />
     </svg>
-  )
+  );
 }
