@@ -5,10 +5,11 @@
   grid-area: header;
   gap: 24px;
   color: var(--text-primary); 
+  
 }
 
 .header img {
-  margin-left: 50px;
+  
   border-radius: 24px;
 }
 
@@ -20,14 +21,13 @@
   }
 
   .header h1 {
-    margin-left: 70px;
     font-size: 36px;
     line-height: 54px;
     color: var(--text-primary); 
   }
 
   .header h2 {
-    margin-left: 70px;
+    
     font-size: 30px; 
     line-height: 45px;
     font-style: normal;
@@ -35,7 +35,7 @@
   }
 
   .header img {
-    margin-left: 10px;
+    
     border-radius: 2%; 
     border: 2px solid rgb(0, 0, 0);
   }
