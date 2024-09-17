@@ -6,7 +6,11 @@ import "./styles/home.scss"
 
 export default function Home() {
   return (
+    
+      
     <main className="container">
+      
+
       <Header />
       <Experience />
       <Info />
@@ -14,6 +18,8 @@ export default function Home() {
        <SocialBtn/>
         <button className="btn-primary"> Contate-me</button>
       </div>
+      
     </main>
+    
   );
 }
