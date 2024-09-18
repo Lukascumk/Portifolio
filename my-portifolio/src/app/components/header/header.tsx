@@ -4,8 +4,8 @@ export function Header(){
     return (
       <div className="header">
         <div>
-          <h1> Olá! Eu sou Lukas Mota!</h1>
-          <h2>Desenvolvedor Full Stack Junior</h2>
+          <h1> Olá! Eu sou o Lukas!👋🏼</h1>
+          <h2>Desenvolvedor Full Stack</h2>
         </div>
         <Image
           src="/me.png"
