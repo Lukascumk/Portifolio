@@ -3,8 +3,8 @@ import { Csharpicon } from "../icons/csharpicon";
 import { Dotneticon } from "../icons/dotneticon";
 import { Reacticon } from "../icons/reacticon";
 import { Typescripticon } from "../icons/typescripticon";
-import  "../experience/experienceIcons.scss";
-export function experienceIcons() {
+import "./experienceIcons.scss";
+export function ExperienceIcons() {
     return (
      
         <div className="icons-experience">
