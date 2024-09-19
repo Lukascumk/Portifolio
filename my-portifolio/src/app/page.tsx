@@ -19,7 +19,8 @@ export default function Home() {
         </a>
       </div>
       <div>
-        <ExperienceIcons/>
+        <ExperienceIcons />
+        
       </div>
     </main>
   );

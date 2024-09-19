@@ -3,12 +3,15 @@
   display: grid;
   gap: 24px;
   justify-items: center;
-  grid-template-rows: repeat(4, auto);
+  grid-template-rows: repeat(5, auto);
   grid-template-areas:
     "header"
     "btns"
+    "empty-icons"
     "experience"
-    "info";
+    "info"
+    ;
+  
   width: 90%;
   height: 30%;
   background-color: #0C2517;
@@ -62,6 +65,7 @@
       "header info"
       "experience empty-1"
       "empty-2 btns";
+      
       margin: 20px auto;
   }
 }

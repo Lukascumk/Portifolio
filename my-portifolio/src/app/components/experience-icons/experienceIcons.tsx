@@ -6,14 +6,22 @@ import { Typescripticon } from "../icons/typescripticon";
 import "./experienceIcons.scss";
 export function ExperienceIcons() {
     return (
-     
-        <div className="icons-experience">
-          <Dotneticon />
+      <div className="icons-experience">
+        <div className="path">
           <Angularicon />
+        </div>
+        <div className="path">
+          <Dotneticon />
+        </div>
+        <div className="path">
           <Csharpicon />
+        </div>
+        <div className="path">
           <Reacticon />
+        </div>
+        <div className="path">
           <Typescripticon />
         </div>
-
+      </div>
     );
 }

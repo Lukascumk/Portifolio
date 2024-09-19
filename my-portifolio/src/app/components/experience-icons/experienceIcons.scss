@@ -2,9 +2,31 @@
     display: flex;
     align-items:center;
     gap: 25px;
-    align-items: center;
+   
     align-content: center;
+    
 
+    grid-area: empty-icons;
+
+    .path{
+        background-origin: padding-box;
+    height: 58px;
+        width: 58px;
+        border: 1px solid white;
+        border-radius: 180px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
   
-    // box-shadow: rgb(253, 253, 253) 0px 1px 4px, rgb(125, 125, 125) 0px 0px 0px 3px;
+    
+}
+@media (min-width: 768px) {
+    .icons-experience{
+        
+}
+.path{
+    border:solid 2px white; 
+}
 }
