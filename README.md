@@ -8,7 +8,8 @@ Projeto básico de um portifólio para auxíliar programadores iniciantes a tere
 
 
 # Layout do projeto.
-![Layout](public/layout.png)
+
+![Layout](my-portifolio/public/layout.png)
 
 
 # Como contribuir
