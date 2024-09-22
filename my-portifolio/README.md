@@ -11,7 +11,7 @@ Projeto básico de um portifólio para auxíliar programadores iniciantes a tere
 ![Layout](public/layout.png)
 
 
-# Como contribuir.
+# Como contribuir
 
 ## Se você deseja contribuir com este projeto, siga os passos abaixo:
 
