@@ -7,7 +7,7 @@ Projeto básico de um portifólio para auxíliar programadores iniciantes a tere
 
 
 
-# Layout do projeto.
+# Layout do projeto
 ![Layout](public/layout.png)
 
 
